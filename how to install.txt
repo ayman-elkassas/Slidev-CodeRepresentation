@@ -1,0 +1,8 @@
+https://sli.dev/guide/install.html
+
+steps:
+0-create folder
+1-npm init slidev
+2-npm install @slidev/cli @slidev/theme-default
+3-make .md file in this folder
+4-npx slidev
